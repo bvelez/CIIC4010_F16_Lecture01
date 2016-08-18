@@ -5,6 +5,8 @@ class MainClass {
 	public static void main(String[] args) {
 
 		double PI = Math.PI;
+		
+		double circunsference=0;
 
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter radius of circle: ");
