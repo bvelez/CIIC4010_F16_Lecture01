@@ -4,7 +4,7 @@ class MainClass {
 
 	public static void main(String[] args) {
 
-		double PI = 3.14;
+		double PI = Math.PI;
 
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter radius of circle: ");
